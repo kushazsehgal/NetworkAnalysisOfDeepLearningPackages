@@ -40,9 +40,9 @@ Cluster Description and Colours of Biggest Clusters-
 3. pink/orange - huggingface / fastai    
 4. packages for hosting deep learning networks 
 ### ScreenShots
-1. ![Complete Network](./Network Analysis/filtered_nn/filtered_nn.PNG)
-2. ![Edges involving Deep Learning to Non Deep Learning](./Network Analysis/nn_edges_not_nn/nn_edges_not_nn.PNG)
-3. ![Edges involving Deep Learning to Deep Learning](./Network Analysis/nn_edges_with_nn/nn_edges_with_nn.PNG)
+1. ![Complete Network](./Network-Analysis/filtered_nn/filtered_nn.PNG)
+2. ![Edges involving Deep Learning to Non Deep Learning](./Network-Analysis/nn_edges_not_nn/nn_edges_not_nn.PNG)
+3. ![Edges involving Deep Learning to Deep Learning](./Network-Analysis/nn_edges_with_nn/nn_edges_with_nn.PNG)
 
 ## Observations
 1. Common Observations over all Graphs 
