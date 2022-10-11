@@ -2,7 +2,7 @@
 This repository comprises of the source code my project under Prof. Nilam Kaushik in IIM Bangalore. 
 The Project involved finding interelationships among machine learning packages avaialable and python and deducing the major differences in deep learning packages developed through Pytorch or developed through Tensorflow
 
-# Dependencies
+## Dependencies
 Dependencies can be installed by running the following command
 ```bash
 pip install -r requirements.txt
